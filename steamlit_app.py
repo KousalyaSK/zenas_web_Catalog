@@ -1,3 +1,4 @@
 import streamlit
+import snowflake.connector
 
-streamlit.title('my websit')
+streamlit.title('my website')
