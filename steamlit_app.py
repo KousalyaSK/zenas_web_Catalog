@@ -1,5 +1,3 @@
-created tha main python file
-
 import streamlit
 import snowflake.connector
 import pandas
